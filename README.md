@@ -4,6 +4,6 @@ Lisätty ohjelmaan painike, josta pelikierros saadaan käynnistettyä ja oma lab
 
 ![image](https://github.com/user-attachments/assets/7a2f423a-3973-45e1-bbaf-8540624abe32)
 
-Varmista, että PySide6 kirjasto on asennettuna. Syötä oheinen komento päätteessä.
+Varmista, että PySide6 kirjasto on asennettuna. Syötä oheinen komento päätteeseen
 
-pip install PySide6
+```pip install PySide6```
